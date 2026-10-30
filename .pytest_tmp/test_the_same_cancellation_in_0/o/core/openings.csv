@@ -1,0 +1,4 @@
+opening_id,appointment_id,therapist,date,day,start,length_min,kind,cancelled_at,hours_notice
+N01,A-24010,Josée Landry,2026-09-21,Mon,12:30,60,late cancel,2026-09-21 09:47,2.7
+N02,A-24020,Amira Haddad,2026-09-21,Mon,15:45,60,no-show,2026-09-21 16:00,0
+N03,A-24035,Kelsey Babineau,2026-09-22,Tue,11:00,90,late cancel,2026-09-22 07:12,3.8

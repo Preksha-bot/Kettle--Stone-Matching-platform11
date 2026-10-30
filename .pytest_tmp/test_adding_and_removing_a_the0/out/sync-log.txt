@@ -1,0 +1,13 @@
+Sync log · database C:\Users\joonp\Documents\Claude\kettle-stone-platform\.pytest_tmp\test_adding_and_removing_a_the0\data\kettle.db
+This sync (#2): 2026-10-30 12:09 · run date 2026-10-21
+  settings changed: Therapist added: Sophie Martin
+
+Database now: 60 waitlist lines · 595 bookings (visits 2026-09-21 to 2026-10-17) · 44 openings
+Matched: 44 opening(s) from the last run
+
+Warnings from this sync:
+  none
+
+All syncs:
+  #1 2026-10-30 12:09 · run date 2026-10-21 · waitlist-2026-10-21.csv, appointments-2026-09-21-to-2026-10-17.csv, late-openings-2026-09-21-to-2026-10-17.csv
+  #2 2026-10-30 12:09 · run date 2026-10-21 · settings changed: Therapist added: Sophie Martin

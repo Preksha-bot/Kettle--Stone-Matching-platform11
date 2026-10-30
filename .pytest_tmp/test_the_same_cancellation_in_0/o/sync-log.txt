@@ -1,0 +1,13 @@
+Sync log · database C:\Users\joonp\Documents\Claude\kettle-stone-platform\.pytest_tmp\test_the_same_cancellation_in_0\kettle.db
+This sync (#2): 2026-10-30 09:00 · run date 2026-10-21
+  o.csv: 3 openings · new: 0
+
+Database now: 60 waitlist lines · 595 bookings (visits 2026-09-21 to 2026-10-17) · 44 openings
+Matched: 3 opening(s) from this upload
+
+Warnings from this sync:
+  none
+
+All syncs:
+  #1 2026-10-30 09:00 · run date 2026-10-21 · waitlist-2026-10-21.csv, appointments-2026-09-21-to-2026-10-17.csv, late-openings-2026-09-21-to-2026-10-17.csv
+  #2 2026-10-30 09:00 · run date 2026-10-21 · o.csv

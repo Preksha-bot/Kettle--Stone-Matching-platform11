@@ -1,0 +1,27 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kettle-platform",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "serve.py"
+      ],
+      "port": 8000
+    },
+    {
+      "name": "guide-screens",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "serve.py",
+        "--db",
+        "C:/Users/joonp/AppData/Local/Temp/claude/C--Users-joonp--claude-spares-spare-2iVu6Z/ef7a4033-04c7-416c-9f1e-f80a7e5b6462/scratchpad/guide-db/kettle.db",
+        "--out",
+        "C:/Users/joonp/AppData/Local/Temp/claude/C--Users-joonp--claude-spares-spare-2iVu6Z/ef7a4033-04c7-416c-9f1e-f80a7e5b6462/scratchpad/guide-db/out",
+        "--port",
+        "8010"
+      ],
+      "port": 8010
+    }
+  ]
+}

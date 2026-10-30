@@ -1,0 +1,13 @@
+Sync log · database C:\Users\joonp\Documents\Claude\kettle-stone-platform\.pytest_tmp\test_a_gap_between_uploads_is_0\kettle.db
+This sync (#2): 2026-10-30 09:00 · run date 2026-10-30
+  two-days.csv: 43 rows, visits 2026-10-16 to 2026-10-17 · new: 43 · updated: 0 · status changes: 0
+
+Database now: 60 waitlist lines · 518 bookings (visits 2026-09-21 to 2026-10-17) · 44 openings
+Matched: 44 opening(s) in the database
+
+Warnings from this sync:
+  no booking data for visits on Oct 12 to Oct 15: anyone who booked a visit in those days may still be listed. Check Kneadly before calling
+
+All syncs:
+  #1 2026-10-30 09:00 · run date 2026-10-21 · waitlist-2026-10-21.csv, early.csv, late-openings-2026-09-21-to-2026-10-17.csv
+  #2 2026-10-30 09:00 · run date 2026-10-30 · two-days.csv

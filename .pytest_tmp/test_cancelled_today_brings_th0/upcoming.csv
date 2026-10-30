@@ -1,0 +1,7 @@
+appointment_id,date,start,end,length_min,service,therapist,client_id,client_name,booked_at,booked_via,confirmation,status,cancelled_at,cancel_via,late_fee,rebooked_into,desk_notes
+A-99101,2026-10-22,14:00,15:00,60,Massage therapy 60 min,Dave Melanson,K-9101,Rita Comeau,2026-10-10 10:00,online,none,Booked,,,,,
+A-99102,2026-10-22,11:00,12:00,60,Massage therapy 60 min,Kelsey Babineau,K-9102,Marc Gallant,2026-10-10 10:00,online,text C,Booked,,,,,
+A-99103,2026-10-23,10:00,11:00,60,Massage therapy 60 min,Rachel Thibodeau,K-9103,Lucie Arsenault,2026-10-10 10:00,online,none,Booked,,,,,
+A-99104,2026-10-22,07:00,08:00,60,Massage therapy 60 min,Marc Cormier,K-9104,Paul Leger,2026-10-10 10:00,online,none,Booked,,,,,
+A-99105,2026-10-22,16:00,17:00,60,Massage therapy 60 min,Josée Landry,K-9105,Anne Roy,2026-10-10 10:00,online,n/a (same day),Booked,,,,,
+A-99106,2026-10-24,10:00,11:00,60,Massage therapy 60 min,Amira Haddad,K-9106,Eve Cyr,2026-10-10 10:00,online,none,Booked,,,,,

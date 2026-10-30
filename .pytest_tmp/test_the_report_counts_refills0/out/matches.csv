@@ -1,0 +1,104 @@
+opening_id,date,day,start,therapist,length_min,hours_notice,rank,line,name,phone,can_take,flags
+O01,2026-09-21,Mon,12:30,Josée Landry,60,2.7,1,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,ask Josée first
+O01,2026-09-21,Mon,12:30,Josée Landry,60,2.7,2,39,Joel Bertin,506-555-0135,any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice,ask Josée first
+O01,2026-09-21,Mon,12:30,Josée Landry,60,2.7,3,45,Nicole Vautour,506-555-0139,Amira or Josée · 60 min · not Fri · 2 h notice,ask Josée first
+O02,2026-09-21,Mon,15:45,Amira Haddad,60,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+O03,2026-09-22,Tue,11:00,Kelsey Babineau,90,3.8,1,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+O03,2026-09-22,Tue,11:00,Kelsey Babineau,90,3.8,2,20,Ginette Losier,506-555-0119,female therapist · 60 min · Tue/Thu · 2 h notice,
+O03,2026-09-22,Tue,11:00,Kelsey Babineau,90,3.8,3,43,Tina Saulnier,506-555-0129,Amira or Kelsey · 60 min · done by 2:30 · 2 h notice,
+O04,2026-09-22,Tue,12:15,Dave Melanson,60,9.2,1,39,Joel Bertin,506-555-0135,any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice,
+O04,2026-09-22,Tue,12:15,Dave Melanson,60,9.2,2,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O04,2026-09-22,Tue,12:15,Dave Melanson,60,9.2,3,57,Lise Gautreau,506-555-0144,Dave or Josée · 60 min · from 12:00 · 2 h notice,
+O05,2026-09-23,Wed,11:45,Rachel Thibodeau,60,12.4,1,48,Carole Mazerolle,506-555-0115,Josée or Rachel · 60 min · mornings · 2 h notice,
+O05,2026-09-23,Wed,11:45,Rachel Thibodeau,60,12.4,2,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,
+O05,2026-09-23,Wed,11:45,Rachel Thibodeau,60,12.4,3,55,Sylvie Bordage,506-555-0126,Amira or Rachel · 60 min · told day before,
+O06,2026-09-23,Wed,15:00,Kelsey Babineau,60,13.3,1,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+O06,2026-09-23,Wed,15:00,Kelsey Babineau,60,13.3,2,40,Vanessa Caissie,506-555-0136,Amira or Kelsey · 60 min · 3 h notice,
+O06,2026-09-23,Wed,15:00,Kelsey Babineau,60,13.3,3,49,Andrea Pitre,506-555-0141,female therapist · 45 min · Wed/Fri · 4 h notice,
+O07,2026-09-23,Wed,18:45,Amira Haddad,60,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+O08,2026-09-23,Wed,18:45,Rachel Thibodeau,60,14.4,1,12,Denis Theriault,506-555-0111,anyone but Dave · 60 min · not Thu · from 3:30 · 2 h notice,
+O08,2026-09-23,Wed,18:45,Rachel Thibodeau,60,14.4,2,24,Kevin Steeves,506-555-0123,any therapist · 60 min · from 5:00 · 2 h notice,text only
+O08,2026-09-23,Wed,18:45,Rachel Thibodeau,60,14.4,3,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,
+O09,2026-09-24,Thu,10:15,Josée Landry,60,11.7,1,14,Chantal Maltais,506-555-0113,Josée · 45/60 min · 3 h notice,ask Josée first
+O09,2026-09-24,Thu,10:15,Josée Landry,60,11.7,2,48,Carole Mazerolle,506-555-0115,Josée or Rachel · 60 min · mornings · 2 h notice,ask Josée first
+O09,2026-09-24,Thu,10:15,Josée Landry,60,11.7,3,20,Ginette Losier,506-555-0119,female therapist · 60 min · Tue/Thu · 2 h notice,ask Josée first
+O10,2026-09-24,Thu,13:30,Dave Melanson,60,8.2,1,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O10,2026-09-24,Thu,13:30,Dave Melanson,60,8.2,2,57,Lise Gautreau,506-555-0144,Dave or Josée · 60 min · from 12:00 · 2 h notice,
+O11,2026-09-25,Fri,13:15,Josée Landry,60,12.7,1,14,Chantal Maltais,506-555-0113,Josée · 45/60 min · 3 h notice,ask Josée first
+O11,2026-09-25,Fri,13:15,Josée Landry,60,12.7,2,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,ask Josée first
+O11,2026-09-25,Fri,13:15,Josée Landry,60,12.7,3,49,Andrea Pitre,506-555-0141,female therapist · 45 min · Wed/Fri · 4 h notice,ask Josée first
+O12,2026-09-28,Mon,11:30,Josée Landry,60,13.5,1,14,Chantal Maltais,506-555-0113,Josée · 45/60 min · 3 h notice,ask Josée first
+O12,2026-09-28,Mon,11:30,Josée Landry,60,13.5,2,48,Carole Mazerolle,506-555-0115,Josée or Rachel · 60 min · mornings · 2 h notice,ask Josée first
+O12,2026-09-28,Mon,11:30,Josée Landry,60,13.5,3,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,ask Josée first
+O13,2026-09-28,Mon,12:30,Amira Haddad,30,1.2,1,39,Joel Bertin,506-555-0135,any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice,
+O14,2026-09-28,Mon,13:30,Dave Melanson,60,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+O15,2026-09-29,Tue,09:00,Marc Cormier,60,19.3,1,18,Marcel Bujold,506-555-0117,Marc · 60 min · mornings · 0.5 h notice,
+O15,2026-09-29,Tue,09:00,Marc Cormier,60,19.3,2,33,Patrick Chiasson,506-555-0131,anyone but Dave · 60 min · not Mon · mornings · 2 h notice,
+O15,2026-09-29,Tue,09:00,Marc Cormier,60,19.3,3,60,Mireille Cole,506-555-0138,any therapist · 60 min · not Thu · mornings · 2 h notice,text only
+O16,2026-09-29,Tue,11:00,Dave Melanson,60,9.7,1,60,Mireille Cole,506-555-0138,any therapist · 60 min · not Thu · mornings · 2 h notice,text only
+O16,2026-09-29,Tue,11:00,Dave Melanson,60,9.7,2,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O17,2026-09-30,Wed,14:45,Amira Haddad,60,9.3,1,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+O17,2026-09-30,Wed,14:45,Amira Haddad,60,9.3,2,36,Monique Hache,506-555-0132,Amira · 45 min · from 10:00 · 2 h notice,
+O17,2026-09-30,Wed,14:45,Amira Haddad,60,9.3,3,40,Vanessa Caissie,506-555-0136,Amira or Kelsey · 60 min · 3 h notice,
+O18,2026-10-01,Thu,16:30,Rachel Thibodeau,60,7.3,1,20,Ginette Losier,506-555-0119,female therapist · 60 min · Tue/Thu · 2 h notice,
+O18,2026-10-01,Thu,16:30,Rachel Thibodeau,60,7.3,2,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,
+O19,2026-10-01,Thu,17:45,Dave Melanson,60,11.3,1,47,Normand Vienneau,506-555-0104,Dave · 60/90 min · from 4:00 · 2 h notice,
+O19,2026-10-01,Thu,17:45,Dave Melanson,60,11.3,2,24,Kevin Steeves,506-555-0123,any therapist · 60 min · from 5:00 · 2 h notice,text only
+O19,2026-10-01,Thu,17:45,Dave Melanson,60,11.3,3,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O20,2026-10-02,Fri,12:00,Dave Melanson,60,3.6,1,39,Joel Bertin,506-555-0135,any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice,
+O20,2026-10-02,Fri,12:00,Dave Melanson,60,3.6,2,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O20,2026-10-02,Fri,12:00,Dave Melanson,60,3.6,3,57,Lise Gautreau,506-555-0144,Dave or Josée · 60 min · from 12:00 · 2 h notice,
+O21,2026-10-02,Fri,13:00,Josée Landry,60,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+O22,2026-10-02,Fri,13:15,Dave Melanson,60,15.7,1,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O22,2026-10-02,Fri,13:15,Dave Melanson,60,15.7,2,57,Lise Gautreau,506-555-0144,Dave or Josée · 60 min · from 12:00 · 2 h notice,
+O23,2026-10-05,Mon,10:15,Amira Haddad,60,6.7,1,56,Lorraine Johnson,506-555-0106,Amira · 60 min · Mon/Tue · 2 h notice,
+O23,2026-10-05,Mon,10:15,Amira Haddad,60,6.7,2,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+O23,2026-10-05,Mon,10:15,Amira Haddad,60,6.7,3,43,Tina Saulnier,506-555-0129,Amira or Kelsey · 60 min · done by 2:30 · 2 h notice,
+O24,2026-10-05,Mon,14:45,Amira Haddad,60,13.8,1,56,Lorraine Johnson,506-555-0106,Amira · 60 min · Mon/Tue · 2 h notice,
+O24,2026-10-05,Mon,14:45,Amira Haddad,60,13.8,2,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+O24,2026-10-05,Mon,14:45,Amira Haddad,60,13.8,3,36,Monique Hache,506-555-0132,Amira · 45 min · from 10:00 · 2 h notice,
+O25,2026-10-06,Tue,12:00,Dave Melanson,60,12.5,1,39,Joel Bertin,506-555-0135,any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice,
+O25,2026-10-06,Tue,12:00,Dave Melanson,60,12.5,2,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O25,2026-10-06,Tue,12:00,Dave Melanson,60,12.5,3,57,Lise Gautreau,506-555-0144,Dave or Josée · 60 min · from 12:00 · 2 h notice,
+O26,2026-10-06,Tue,13:15,Dave Melanson,30,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+O27,2026-10-06,Tue,15:30,Kelsey Babineau,90,7.8,1,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+O27,2026-10-06,Tue,15:30,Kelsey Babineau,90,7.8,2,12,Denis Theriault,506-555-0111,anyone but Dave · 60 min · not Thu · from 3:30 · 2 h notice,
+O27,2026-10-06,Tue,15:30,Kelsey Babineau,90,7.8,3,20,Ginette Losier,506-555-0119,female therapist · 60 min · Tue/Thu · 2 h notice,
+O28,2026-10-07,Wed,11:15,Josée Landry,60,2.4,1,48,Carole Mazerolle,506-555-0115,Josée or Rachel · 60 min · mornings · 2 h notice,ask Josée first
+O28,2026-10-07,Wed,11:15,Josée Landry,60,2.4,2,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,ask Josée first
+O28,2026-10-07,Wed,11:15,Josée Landry,60,2.4,3,33,Patrick Chiasson,506-555-0131,anyone but Dave · 60 min · not Mon · mornings · 2 h notice,ask Josée first
+O29,2026-10-08,Thu,10:15,Josée Landry,60,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+O30,2026-10-08,Thu,11:00,Dave Melanson,60,8,1,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O31,2026-10-08,Thu,15:15,Dave Melanson,60,1.2,0,,(nobody),,nobody on the list fits,
+O32,2026-10-09,Fri,13:45,Rachel Thibodeau,60,6.9,1,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,
+O32,2026-10-09,Fri,13:45,Rachel Thibodeau,60,6.9,2,49,Andrea Pitre,506-555-0141,female therapist · 45 min · Wed/Fri · 4 h notice,
+O33,2026-10-09,Fri,17:15,Dave Melanson,60,3.4,1,47,Normand Vienneau,506-555-0104,Dave · 60/90 min · from 4:00 · 2 h notice,
+O33,2026-10-09,Fri,17:15,Dave Melanson,60,3.4,2,24,Kevin Steeves,506-555-0123,any therapist · 60 min · from 5:00 · 2 h notice,text only
+O33,2026-10-09,Fri,17:15,Dave Melanson,60,3.4,3,37,Greg Wilson,506-555-0133,any therapist · 60 min · Fri · from 3:00 · 2 h notice,"new client, phone only"
+O34,2026-10-14,Wed,11:00,Rachel Thibodeau,60,7.9,1,48,Carole Mazerolle,506-555-0115,Josée or Rachel · 60 min · mornings · 2 h notice,
+O34,2026-10-14,Wed,11:00,Rachel Thibodeau,60,7.9,2,53,Luc Bernard,506-555-0121,any therapist · 60/90 min · not Sat · 2 h notice,
+O34,2026-10-14,Wed,11:00,Rachel Thibodeau,60,7.9,3,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,
+O35,2026-10-14,Wed,15:00,Rachel Thibodeau,60,6.1,1,53,Luc Bernard,506-555-0121,any therapist · 60/90 min · not Sat · 2 h notice,
+O35,2026-10-14,Wed,15:00,Rachel Thibodeau,60,6.1,2,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,
+O35,2026-10-14,Wed,15:00,Rachel Thibodeau,60,6.1,3,49,Andrea Pitre,506-555-0141,female therapist · 45 min · Wed/Fri · 4 h notice,
+O36,2026-10-14,Wed,16:00,Kelsey Babineau,60,5.6,1,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+O36,2026-10-14,Wed,16:00,Kelsey Babineau,60,5.6,2,12,Denis Theriault,506-555-0111,anyone but Dave · 60 min · not Thu · from 3:30 · 2 h notice,
+O36,2026-10-14,Wed,16:00,Kelsey Babineau,60,5.6,3,53,Luc Bernard,506-555-0121,any therapist · 60/90 min · not Sat · 2 h notice,
+O37,2026-10-15,Thu,11:00,Dave Melanson,60,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+O38,2026-10-15,Thu,11:15,Marc Cormier,60,12,1,18,Marcel Bujold,506-555-0117,Marc · 60 min · mornings · 0.5 h notice,
+O38,2026-10-15,Thu,11:15,Marc Cormier,60,12,2,53,Luc Bernard,506-555-0121,any therapist · 60/90 min · not Sat · 2 h notice,
+O38,2026-10-15,Thu,11:15,Marc Cormier,60,12,3,33,Patrick Chiasson,506-555-0131,anyone but Dave · 60 min · not Mon · mornings · 2 h notice,
+O39,2026-10-15,Thu,14:00,Dave Melanson,60,3.3,1,53,Luc Bernard,506-555-0121,any therapist · 60/90 min · not Sat · 2 h notice,
+O39,2026-10-15,Thu,14:00,Dave Melanson,60,3.3,2,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O39,2026-10-15,Thu,14:00,Dave Melanson,60,3.3,3,57,Lise Gautreau,506-555-0144,Dave or Josée · 60 min · from 12:00 · 2 h notice,
+O40,2026-10-15,Thu,16:00,Rachel Thibodeau,60,1.3,0,,(nobody),,nobody on the list fits,
+O41,2026-10-16,Fri,12:00,Dave Melanson,60,6.5,1,53,Luc Bernard,506-555-0121,any therapist · 60/90 min · not Sat · 2 h notice,
+O41,2026-10-16,Fri,12:00,Dave Melanson,60,6.5,2,39,Joel Bertin,506-555-0135,any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice,
+O41,2026-10-16,Fri,12:00,Dave Melanson,60,6.5,3,46,Shawn Duguay,506-555-0140,Dave or Marc · 60 min · 2 h notice,
+O42,2026-10-16,Fri,14:15,Kelsey Babineau,60,5,1,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+O42,2026-10-16,Fri,14:15,Kelsey Babineau,60,5,2,53,Luc Bernard,506-555-0121,any therapist · 60/90 min · not Sat · 2 h notice,
+O42,2026-10-16,Fri,14:15,Kelsey Babineau,60,5,3,40,Vanessa Caissie,506-555-0136,Amira or Kelsey · 60 min · 3 h notice,
+O43,2026-10-16,Fri,15:00,Dave Melanson,60,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+O44,2026-10-17,Sat,14:00,Amira Haddad,60,13.2,1,36,Monique Hache,506-555-0132,Amira · 45 min · from 10:00 · 2 h notice,
+O44,2026-10-17,Sat,14:00,Amira Haddad,60,13.2,2,40,Vanessa Caissie,506-555-0136,Amira or Kelsey · 60 min · 3 h notice,
+O44,2026-10-17,Sat,14:00,Amira Haddad,60,13.2,3,45,Nicole Vautour,506-555-0139,Amira or Josée · 60 min · not Fri · 2 h notice,

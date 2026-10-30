@@ -1,0 +1,1866 @@
+[
+  {
+    "person_id": "P-5065550101",
+    "name": "Gisele Maillet",
+    "phone": "5065550101",
+    "lines": [
+      1
+    ],
+    "active_line": 1,
+    "status": "stale",
+    "reasons": [
+      "no contact since Jul 06 (over 60 days)"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      90
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-07-06",
+    "last_contact": "2026-07-06"
+  },
+  {
+    "person_id": "P-5065550102",
+    "name": "Pauline Bastarache",
+    "phone": "5065550102",
+    "lines": [
+      2,
+      51
+    ],
+    "active_line": 51,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": [
+      "Mon",
+      "Wed"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": "12:00",
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-07-14",
+    "last_contact": "2026-10-08"
+  },
+  {
+    "person_id": "P-5065550103",
+    "name": "Terry Hebert",
+    "phone": "5065550103",
+    "lines": [
+      3
+    ],
+    "active_line": 3,
+    "status": "stale",
+    "reasons": [
+      "no contact since Jul 20 (over 60 days)"
+    ],
+    "therapists_allowed": [
+      "Dave Melanson"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "17:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": "call (landline)",
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-07-20",
+    "last_contact": "2026-07-20"
+  },
+  {
+    "person_id": "P-5065550104",
+    "name": "Normand Vienneau",
+    "phone": "5065550104",
+    "lines": [
+      4,
+      47
+    ],
+    "active_line": 47,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Dave Melanson"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60,
+      90
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "16:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-07-27",
+    "last_contact": "2026-10-05"
+  },
+  {
+    "person_id": "P-5065550105",
+    "name": "Lynn Savoie",
+    "phone": "5065550105",
+    "lines": [
+      5,
+      7
+    ],
+    "active_line": 7,
+    "status": "stale",
+    "reasons": [
+      "no contact since Aug 11 (over 60 days)"
+    ],
+    "therapists_allowed": [
+      "Josée Landry"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      45,
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-04",
+    "last_contact": "2026-08-11"
+  },
+  {
+    "person_id": "P-5065550106",
+    "name": "Lorraine Johnson",
+    "phone": "5065550106",
+    "lines": [
+      6,
+      56
+    ],
+    "active_line": 56,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": [
+      "Mon",
+      "Tue"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-10",
+    "last_contact": "2026-10-13"
+  },
+  {
+    "person_id": "P-5065550107",
+    "name": "Ray Daigle",
+    "phone": "5065550107",
+    "lines": [
+      8
+    ],
+    "active_line": 8,
+    "status": "stale",
+    "reasons": [
+      "no contact since Aug 15 (over 60 days)"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      30
+    ],
+    "days": [
+      "Fri",
+      "Mon",
+      "Thu",
+      "Tue",
+      "Wed"
+    ],
+    "days_excluded": [],
+    "earliest_start": "12:00",
+    "start_before": null,
+    "latest_end": "13:00",
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-15",
+    "last_contact": "2026-08-15"
+  },
+  {
+    "person_id": "P-5065550108",
+    "name": "Claudette Richard",
+    "phone": "5065550108",
+    "lines": [
+      9,
+      31
+    ],
+    "active_line": 31,
+    "status": "stale",
+    "reasons": [
+      "booked since: Oct 14 (Claudette Richard, Rachel Oct 14)"
+    ],
+    "therapists_allowed": [
+      "Josée Landry",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60,
+      90
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-22",
+    "last_contact": "2026-09-17"
+  },
+  {
+    "person_id": "P-5065550109",
+    "name": "Sarah Collette",
+    "phone": "5065550109",
+    "lines": [
+      10
+    ],
+    "active_line": 10,
+    "status": "stale",
+    "reasons": [
+      "no contact since Aug 24 (over 60 days)"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Kelsey Babineau"
+    ],
+    "excluded": [],
+    "female_only": true,
+    "prenatal_only": true,
+    "needs": [
+      "prenatal-trained"
+    ],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": [
+      "Fri",
+      "Mon",
+      "Thu",
+      "Tue",
+      "Wed"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-24",
+    "last_contact": "2026-08-24"
+  },
+  {
+    "person_id": "P-5065550110",
+    "name": "Heather Doucet",
+    "phone": "5065550110",
+    "lines": [
+      11
+    ],
+    "active_line": 11,
+    "status": "stale",
+    "reasons": [
+      "no contact since Aug 25 (over 60 days)",
+      "only wanted a spot until Sep 30"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": "2026-09-30",
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-25",
+    "last_contact": "2026-08-25"
+  },
+  {
+    "person_id": "P-5065550111",
+    "name": "Denis Theriault",
+    "phone": "5065550111",
+    "lines": [
+      12
+    ],
+    "active_line": 12,
+    "status": "stale",
+    "reasons": [
+      "no contact since Aug 26 (over 60 days)"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [
+      "Dave Melanson"
+    ],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [
+      "Thu"
+    ],
+    "earliest_start": "15:30",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-26",
+    "last_contact": "2026-08-26"
+  },
+  {
+    "person_id": "P-5065550112",
+    "name": "Kim Belliveau",
+    "phone": "5065550112",
+    "lines": [
+      13,
+      50
+    ],
+    "active_line": 50,
+    "status": "stale",
+    "reasons": [
+      "number not in service"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": true,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "16:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-28",
+    "last_contact": "2026-10-07"
+  },
+  {
+    "person_id": "P-5065550113",
+    "name": "Chantal Maltais",
+    "phone": "5065550113",
+    "lines": [
+      14
+    ],
+    "active_line": 14,
+    "status": "stale",
+    "reasons": [
+      "no contact since Aug 29 (over 60 days)"
+    ],
+    "therapists_allowed": [
+      "Josée Landry"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      45,
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 3.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-29",
+    "last_contact": "2026-08-29"
+  },
+  {
+    "person_id": "P-5065550114",
+    "name": "Mel Arsenault",
+    "phone": "5065550114",
+    "lines": [
+      15
+    ],
+    "active_line": 15,
+    "status": "stale",
+    "reasons": [
+      "no contact since Aug 30 (over 60 days)",
+      "booked since: Sep 24 (Melanie Arsenault, Dave Sep 24)"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-30",
+    "last_contact": "2026-08-30"
+  },
+  {
+    "person_id": "P-5065550115",
+    "name": "Carole Mazerolle",
+    "phone": "5065550115",
+    "lines": [
+      16,
+      48
+    ],
+    "active_line": 48,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Josée Landry",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": "12:00",
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-08-31",
+    "last_contact": "2026-10-06"
+  },
+  {
+    "person_id": "P-5065550116",
+    "name": "Brianne Cyr",
+    "phone": "5065550116",
+    "lines": [
+      17,
+      34
+    ],
+    "active_line": 34,
+    "status": "stale",
+    "reasons": [
+      "only wanted a spot until Oct 02"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": true,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      90
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": "2026-10-02",
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-01",
+    "last_contact": "2026-09-21"
+  },
+  {
+    "person_id": "P-5065550117",
+    "name": "Marcel Bujold",
+    "phone": "5065550117",
+    "lines": [
+      18
+    ],
+    "active_line": 18,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Marc Cormier"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": "12:00",
+    "latest_end": null,
+    "notice_hours": 0.5,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": "Marc Cormier",
+    "first_asked": "2026-09-02",
+    "last_contact": "2026-09-02"
+  },
+  {
+    "person_id": "P-5065550118",
+    "name": "Jennifer Leblanc",
+    "phone": "5065550118",
+    "lines": [
+      19,
+      35
+    ],
+    "active_line": 35,
+    "status": "stale",
+    "reasons": [
+      "booked since: Oct 05 (Jennifer Leblanc, Amira Oct 05)"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": "12:00",
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-03",
+    "last_contact": "2026-09-22"
+  },
+  {
+    "person_id": "P-5065550119",
+    "name": "Ginette Losier",
+    "phone": "5065550119",
+    "lines": [
+      20
+    ],
+    "active_line": 20,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": true,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": [
+      "Thu",
+      "Tue"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-04",
+    "last_contact": "2026-09-04"
+  },
+  {
+    "person_id": "P-5065550120",
+    "name": "Bob Gaudet",
+    "phone": "5065550120",
+    "lines": [
+      21
+    ],
+    "active_line": 21,
+    "status": "stale",
+    "reasons": [
+      "booked since: Oct 02 (Robert Gaudet, Dave Oct 02)"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [
+      "Marc Cormier"
+    ],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 0.5,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-05",
+    "last_contact": "2026-09-05"
+  },
+  {
+    "person_id": "P-5065550121",
+    "name": "Luc Bernard",
+    "phone": "5065550121",
+    "lines": [
+      22,
+      53
+    ],
+    "active_line": 53,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60,
+      90
+    ],
+    "days": null,
+    "days_excluded": [
+      "Sat"
+    ],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": "2026-10-10",
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-07",
+    "last_contact": "2026-10-09"
+  },
+  {
+    "person_id": "P-5065550122",
+    "name": "Dan Robichaud",
+    "phone": "5065550122",
+    "lines": [
+      23
+    ],
+    "active_line": 23,
+    "status": "stale",
+    "reasons": [
+      "moved away"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": [
+      "Sat"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-08",
+    "last_contact": "2026-09-08"
+  },
+  {
+    "person_id": "P-5065550123",
+    "name": "Kevin Steeves",
+    "phone": "5065550123",
+    "lines": [
+      24
+    ],
+    "active_line": 24,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "17:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": "text only",
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-09",
+    "last_contact": "2026-09-09"
+  },
+  {
+    "person_id": "P-5065550124",
+    "name": "Steph Poirier",
+    "phone": "5065550124",
+    "lines": [
+      25
+    ],
+    "active_line": 25,
+    "status": "stale",
+    "reasons": [
+      "booked since: Oct 02 (Stephanie Poirier, Kelsey Oct 06)"
+    ],
+    "therapists_allowed": [
+      "Kelsey Babineau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": [
+      "Tue"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-10",
+    "last_contact": "2026-09-10"
+  },
+  {
+    "person_id": "P-5065550125",
+    "name": "Amanda Bourgeois",
+    "phone": "5065550125",
+    "lines": [
+      26,
+      42
+    ],
+    "active_line": 42,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Josée Landry",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-11",
+    "last_contact": "2026-09-30"
+  },
+  {
+    "person_id": "P-5065550126",
+    "name": "Sylvie Bordage",
+    "phone": "5065550126",
+    "lines": [
+      27,
+      55
+    ],
+    "active_line": 55,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": true,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-12",
+    "last_contact": "2026-10-10"
+  },
+  {
+    "person_id": "P-5065550127",
+    "name": "Yvon Allain",
+    "phone": "5065550127",
+    "lines": [
+      28
+    ],
+    "active_line": 28,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      90
+    ],
+    "days": [
+      "Sat"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-14",
+    "last_contact": "2026-09-14"
+  },
+  {
+    "person_id": "P-5065550128",
+    "name": "Anne-Marie Leger",
+    "phone": "5065550128",
+    "lines": [
+      29
+    ],
+    "active_line": 29,
+    "status": "stale",
+    "reasons": [
+      "asked to come off the list"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      45
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-15",
+    "last_contact": "2026-10-09"
+  },
+  {
+    "person_id": "P-5065550129",
+    "name": "Tina Saulnier",
+    "phone": "5065550129",
+    "lines": [
+      30,
+      43
+    ],
+    "active_line": 43,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Kelsey Babineau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": "14:30",
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-16",
+    "last_contact": "2026-10-01"
+  },
+  {
+    "person_id": "P-5065550130",
+    "name": "Mike Goguen",
+    "phone": "5065550130",
+    "lines": [
+      32
+    ],
+    "active_line": 32,
+    "status": "stale",
+    "reasons": [
+      "only wanted a spot until Oct 10"
+    ],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "16:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": "2026-10-10",
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-18",
+    "last_contact": "2026-09-18"
+  },
+  {
+    "person_id": "P-5065550131",
+    "name": "Patrick Chiasson",
+    "phone": "5065550131",
+    "lines": [
+      33
+    ],
+    "active_line": 33,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [
+      "Dave Melanson"
+    ],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [
+      "Mon"
+    ],
+    "earliest_start": null,
+    "start_before": "12:00",
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-19",
+    "last_contact": "2026-09-19"
+  },
+  {
+    "person_id": "P-5065550132",
+    "name": "Monique Hache",
+    "phone": "5065550132",
+    "lines": [
+      36
+    ],
+    "active_line": 36,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      45
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "10:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-22",
+    "last_contact": "2026-09-22"
+  },
+  {
+    "person_id": "P-5065550133",
+    "name": "Greg Wilson",
+    "phone": "5065550133",
+    "lines": [
+      37
+    ],
+    "active_line": 37,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": [
+      "Fri"
+    ],
+    "days_excluded": [],
+    "earliest_start": "15:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": true,
+    "regular_of": null,
+    "first_asked": "2026-09-24",
+    "last_contact": "2026-09-24"
+  },
+  {
+    "person_id": "P-5065550134",
+    "name": "Rita McGraw",
+    "phone": "5065550134",
+    "lines": [
+      38
+    ],
+    "active_line": 38,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "18:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-25",
+    "last_contact": "2026-09-25"
+  },
+  {
+    "person_id": "P-5065550135",
+    "name": "Joel Bertin",
+    "phone": "5065550135",
+    "lines": [
+      39
+    ],
+    "active_line": 39,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      30,
+      45
+    ],
+    "days": [
+      "Fri",
+      "Mon",
+      "Thu",
+      "Tue",
+      "Wed"
+    ],
+    "days_excluded": [],
+    "earliest_start": "12:00",
+    "start_before": null,
+    "latest_end": "13:00",
+    "notice_hours": 0.5,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-28",
+    "last_contact": "2026-09-28"
+  },
+  {
+    "person_id": "P-5065550136",
+    "name": "Vanessa Caissie",
+    "phone": "5065550136",
+    "lines": [
+      40
+    ],
+    "active_line": 40,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Kelsey Babineau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": true,
+    "needs": [
+      "prenatal-trained"
+    ],
+    "pref": [
+      "Amira Haddad"
+    ],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 3.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-29",
+    "last_contact": "2026-09-29"
+  },
+  {
+    "person_id": "P-5065550137",
+    "name": "Ron Babin",
+    "phone": "5065550137",
+    "lines": [
+      41,
+      58
+    ],
+    "active_line": 58,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Dave Melanson"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      90
+    ],
+    "days": [
+      "Fri",
+      "Tue"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-09-30",
+    "last_contact": "2026-10-14"
+  },
+  {
+    "person_id": "P-5065550138",
+    "name": "Mireille Cole",
+    "phone": "5065550138",
+    "lines": [
+      44,
+      60
+    ],
+    "active_line": 60,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [
+      "Thu"
+    ],
+    "earliest_start": null,
+    "start_before": "12:00",
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": "text only",
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-10-01",
+    "last_contact": "2026-10-19"
+  },
+  {
+    "person_id": "P-5065550139",
+    "name": "Nicole Vautour",
+    "phone": "5065550139",
+    "lines": [
+      45
+    ],
+    "active_line": 45,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Josée Landry"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [
+      "Fri"
+    ],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-10-02",
+    "last_contact": "2026-10-02"
+  },
+  {
+    "person_id": "P-5065550140",
+    "name": "Shawn Duguay",
+    "phone": "5065550140",
+    "lines": [
+      46
+    ],
+    "active_line": 46,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Dave Melanson",
+      "Marc Cormier"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-10-03",
+    "last_contact": "2026-10-03"
+  },
+  {
+    "person_id": "P-5065550141",
+    "name": "Andrea Pitre",
+    "phone": "5065550141",
+    "lines": [
+      49
+    ],
+    "active_line": 49,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": true,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      45
+    ],
+    "days": [
+      "Fri",
+      "Wed"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 4.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-10-06",
+    "last_contact": "2026-10-06"
+  },
+  {
+    "person_id": "P-5065550142",
+    "name": "Helene Surette",
+    "phone": "5065550142",
+    "lines": [
+      52
+    ],
+    "active_line": 52,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Josée Landry",
+      "Kelsey Babineau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": [
+      "Fri",
+      "Wed"
+    ],
+    "days_excluded": [],
+    "earliest_start": null,
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-10-08",
+    "last_contact": "2026-10-08"
+  },
+  {
+    "person_id": "P-5065550143",
+    "name": "Brent Coates",
+    "phone": "5065550143",
+    "lines": [
+      54
+    ],
+    "active_line": 54,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [
+      "Dave Melanson"
+    ],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      90
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "16:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-10-09",
+    "last_contact": "2026-10-09"
+  },
+  {
+    "person_id": "P-5065550144",
+    "name": "Lise Gautreau",
+    "phone": "5065550144",
+    "lines": [
+      57
+    ],
+    "active_line": 57,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Dave Melanson",
+      "Josée Landry"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      60
+    ],
+    "days": null,
+    "days_excluded": [],
+    "earliest_start": "12:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 2.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-10-13",
+    "last_contact": "2026-10-13"
+  },
+  {
+    "person_id": "P-5065550145",
+    "name": "Jordan Ouellette",
+    "phone": "5065550145",
+    "lines": [
+      59
+    ],
+    "active_line": 59,
+    "status": "active",
+    "reasons": [],
+    "therapists_allowed": [
+      "Amira Haddad",
+      "Dave Melanson",
+      "Josée Landry",
+      "Kelsey Babineau",
+      "Marc Cormier",
+      "Rachel Thibodeau"
+    ],
+    "excluded": [],
+    "female_only": false,
+    "prenatal_only": false,
+    "needs": [],
+    "pref": [],
+    "lengths": [
+      45
+    ],
+    "days": [
+      "Mon",
+      "Tue"
+    ],
+    "days_excluded": [],
+    "earliest_start": "17:00",
+    "start_before": null,
+    "latest_end": null,
+    "notice_hours": 1.0,
+    "day_before": false,
+    "available_from": null,
+    "available_until": null,
+    "contact": null,
+    "new_client": false,
+    "regular_of": null,
+    "first_asked": "2026-10-15",
+    "last_contact": "2026-10-15"
+  }
+]

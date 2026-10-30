@@ -1,0 +1,60 @@
+Preprocessing report · run date Fri Oct 30, 2026
+
+Inputs (read only, never changed):
+  database: C:\Users\joonp\Documents\Claude\kettle-stone-platform\.pytest_tmp\test_a_gap_between_uploads_is_0\kettle.db
+  appointments: C:\Users\joonp\Documents\Claude\kettle-stone-platform\.pytest_tmp\test_a_gap_between_uploads_is_0\two-days.csv
+
+Waitlist: 60 lines -> 45 people: 28 active, 17 stale, 0 held for review.
+Health details: found on 15 lines; none are kept or shown (pregnancy only routes to prenatal-trained therapists).
+
+HELD FOR REVIEW (not offered until a person checks the notebook):
+  none
+
+STALE (out of date, never offered):
+  lines [1] Gisele Maillet: no contact since Jul 06 (over 60 days)
+  lines [3] Terry Hebert: no contact since Jul 20 (over 60 days)
+  lines [5, 7] Lynn Savoie: no contact since Aug 11 (over 60 days)
+  lines [8] Ray Daigle: no contact since Aug 15 (over 60 days)
+  lines [10] Sarah Collette: no contact since Aug 24 (over 60 days)
+  lines [11] Heather Doucet: no contact since Aug 25 (over 60 days); only wanted a spot until Sep 30
+  lines [12] Denis Theriault: no contact since Aug 26 (over 60 days)
+  lines [13, 50] Kim Belliveau: number not in service
+  lines [14] Chantal Maltais: no contact since Aug 29 (over 60 days)
+  lines [15] Mel Arsenault: no contact since Aug 30 (over 60 days); booked since: Sep 24 (Melanie Arsenault, Dave Sep 24)
+  lines [17, 34] Brianne Cyr: only wanted a spot until Oct 02
+  lines [19, 35] Jennifer Leblanc: booked since: Oct 05 (Jennifer Leblanc, Amira Oct 05)
+  lines [21] Bob Gaudet: booked since: Oct 02 (Robert Gaudet, Dave Oct 02)
+  lines [23] Dan Robichaud: moved away
+  lines [25] Steph Poirier: booked since: Oct 02 (Stephanie Poirier, Kelsey Oct 06)
+  lines [29] Anne-Marie Leger: asked to come off the list
+  lines [32] Mike Goguen: only wanted a spot until Oct 10
+
+SAME PERSON, SEVERAL LINES (newest line wins where they differ):
+  Pauline Bastarache: lines [2, 51] -> using line 51
+  Normand Vienneau: lines [4, 47] -> using line 47
+  Lynn Savoie: lines [5, 7] -> using line 7
+  Lorraine Johnson: lines [6, 56] -> using line 56
+  Claudette Richard: lines [9, 31] -> using line 31
+  Kim Belliveau: lines [13, 50] -> using line 50
+  Carole Mazerolle: lines [16, 48] -> using line 48
+  Brianne Cyr: lines [17, 34] -> using line 34
+  Jennifer Leblanc: lines [19, 35] -> using line 35
+  Luc Bernard: lines [22, 53] -> using line 53
+  Amanda Bourgeois: lines [26, 42] -> using line 42
+  Sylvie Bordage: lines [27, 55] -> using line 55
+  Tina Saulnier: lines [30, 43] -> using line 43
+  Ron Babin: lines [41, 58] -> using line 58
+  Mireille Cole: lines [44, 60] -> using line 60
+
+DESK DECISIONS (reviewed.csv):
+  not used on this run
+
+WARNINGS:
+  O34: appointment A-24506 not in the booking export
+  O35: appointment A-24518 not in the booking export
+  O36: appointment A-24522 not in the booking export
+  O37: appointment A-24531 not in the booking export
+  O38: appointment A-24534 not in the booking export
+  O39: appointment A-24541 not in the booking export
+  O40: appointment A-24547 not in the booking export
+  no booking data for visits on Oct 12 to Oct 15: anyone who booked a visit in those days may still be listed. Check Kneadly before calling

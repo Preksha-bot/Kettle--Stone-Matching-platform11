@@ -1,0 +1,8 @@
+opening_id,date,day,start,therapist,length_min,hours_notice,rank,line,name,phone,can_take,flags
+N01,2026-09-21,Mon,12:30,Josée Landry,60,2.7,1,42,Amanda Bourgeois,506-555-0125,Josée or Rachel · 60 min · 2 h notice,ask Josée first
+N01,2026-09-21,Mon,12:30,Josée Landry,60,2.7,2,39,Joel Bertin,506-555-0135,any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice,ask Josée first
+N01,2026-09-21,Mon,12:30,Josée Landry,60,2.7,3,45,Nicole Vautour,506-555-0139,Amira or Josée · 60 min · not Fri · 2 h notice,ask Josée first
+N02,2026-09-21,Mon,15:45,Amira Haddad,60,0,0,,(nobody),,"no-show: only known 15 minutes after the start, so it is never offered",
+N03,2026-09-22,Tue,11:00,Kelsey Babineau,90,3.8,1,10,Sarah Collette,506-555-0109,Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice,
+N03,2026-09-22,Tue,11:00,Kelsey Babineau,90,3.8,2,20,Ginette Losier,506-555-0119,female therapist · 60 min · Tue/Thu · 2 h notice,
+N03,2026-09-22,Tue,11:00,Kelsey Babineau,90,3.8,3,43,Tina Saulnier,506-555-0129,Amira or Kelsey · 60 min · done by 2:30 · 2 h notice,

@@ -1,0 +1,140 @@
+{
+  "_about": "Clinic settings for the waitlist matcher. Edit here, not in the code. Decisions from technical-build-plan.md section 3 (Oct 30, 2026).",
+  "therapists": {
+    "Marc Cormier": {
+      "aliases": [
+        "marc",
+        "m"
+      ],
+      "female": false,
+      "prenatal_trained": false,
+      "approval": "none"
+    },
+    "Dave Melanson": {
+      "aliases": [
+        "dave",
+        "d"
+      ],
+      "female": false,
+      "prenatal_trained": false,
+      "approval": "none"
+    },
+    "Josée Landry": {
+      "aliases": [
+        "josée",
+        "josee",
+        "jos",
+        "j"
+      ],
+      "female": true,
+      "prenatal_trained": false,
+      "approval": "see_first"
+    },
+    "Amira Haddad": {
+      "aliases": [
+        "amira",
+        "a"
+      ],
+      "female": true,
+      "prenatal_trained": true,
+      "approval": "none"
+    },
+    "Kelsey Babineau": {
+      "aliases": [
+        "kelsey",
+        "k"
+      ],
+      "female": true,
+      "prenatal_trained": true,
+      "approval": "none"
+    },
+    "Rachel Thibodeau": {
+      "aliases": [
+        "rachel",
+        "r"
+      ],
+      "female": true,
+      "prenatal_trained": false,
+      "approval": "none"
+    }
+  },
+  "defaults": {
+    "length_min": 60,
+    "notice_hours": 2.0,
+    "stale_after_days": 60,
+    "max_names": 3,
+    "order": "first-asked",
+    "regular_min_visits": 3,
+    "max_offers_per_week": 0
+  },
+  "time_words": {
+    "mornings_before": "12:00",
+    "afternoons_from": "12:00",
+    "evenings_from": "18:00",
+    "lunch_from": "12:00",
+    "lunch_until": "13:00",
+    "quick_notice_hours": 0.5
+  },
+  "_routing_about": "Health routing rules: a note using one of a rule's words sends that person only to therapists with the rule's tag. Words ending in * match the start of a word. The reason is never kept, only the tag. Edit on the platform's Rules screen.",
+  "routing": {
+    "Prenatal": {
+      "tag": "prenatal-trained",
+      "words": [
+        "pregnan*",
+        "prenatal*",
+        "expecting*",
+        "trimester*",
+        "tri"
+      ],
+      "chip": "Prenatal-trained therapists only"
+    }
+  },
+  "health_words": [
+    "shingles"
+  ],
+  "nicknames": {
+    "bob": "robert",
+    "rob": "robert",
+    "bobby": "robert",
+    "mel": "melanie",
+    "jen": "jennifer",
+    "jenn": "jennifer",
+    "steph": "stephanie",
+    "mike": "michael",
+    "dan": "daniel",
+    "danny": "daniel",
+    "greg": "gregory",
+    "ron": "ronald",
+    "pat": "patrick",
+    "chris": "christopher",
+    "tom": "thomas",
+    "jim": "james",
+    "joe": "joseph",
+    "andy": "andrew",
+    "tony": "anthony",
+    "matt": "matthew",
+    "rick": "richard",
+    "liz": "elizabeth",
+    "beth": "elizabeth",
+    "kate": "katherine",
+    "kathy": "katherine",
+    "cathy": "catherine",
+    "sue": "susan",
+    "ted": "edward",
+    "ed": "edward",
+    "val": "valerie",
+    "vicky": "victoria",
+    "becky": "rebecca",
+    "gerry": "gerald",
+    "fred": "frederick",
+    "nick": "nicholas",
+    "sam": "samuel",
+    "abby": "abigail",
+    "meg": "margaret",
+    "maggie": "margaret",
+    "tina": "christina",
+    "dave": "david",
+    "bill": "william",
+    "will": "william"
+  }
+}

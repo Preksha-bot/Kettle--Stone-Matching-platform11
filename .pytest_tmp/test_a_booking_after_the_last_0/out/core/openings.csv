@@ -1,0 +1,46 @@
+opening_id,appointment_id,therapist,date,day,start,length_min,kind,cancelled_at,hours_notice
+O01,A-24010,Josée Landry,2026-09-21,Mon,12:30,60,late cancel,2026-09-21 09:47,2.7
+O02,A-24020,Amira Haddad,2026-09-21,Mon,15:45,60,no-show,2026-09-21 16:00,0
+O03,A-24035,Kelsey Babineau,2026-09-22,Tue,11:00,90,late cancel,2026-09-22 07:12,3.8
+O04,A-24038,Dave Melanson,2026-09-22,Tue,12:15,60,late cancel,2026-09-22 03:00,9.2
+O05,A-24065,Rachel Thibodeau,2026-09-23,Wed,11:45,60,late cancel,2026-09-22 23:22,12.4
+O06,A-24075,Kelsey Babineau,2026-09-23,Wed,15:00,60,late cancel,2026-09-23 01:42,13.3
+O07,A-24085,Amira Haddad,2026-09-23,Wed,18:45,60,no-show,2026-09-23 19:00,0
+O08,A-24086,Rachel Thibodeau,2026-09-23,Wed,18:45,60,late cancel,2026-09-23 04:23,14.4
+O09,A-24090,Josée Landry,2026-09-24,Thu,10:15,60,late cancel,2026-09-23 22:31,11.7
+O10,A-24099,Dave Melanson,2026-09-24,Thu,13:30,60,late cancel,2026-09-24 05:16,8.2
+O11,A-24126,Josée Landry,2026-09-25,Fri,13:15,60,late cancel,2026-09-25 00:31,12.7
+O12,A-24163,Josée Landry,2026-09-28,Mon,11:30,60,late cancel,2026-09-27 21:58,13.5
+O13,A-24167,Amira Haddad,2026-09-28,Mon,12:30,30,late cancel,2026-09-28 11:20,1.2
+O14,A-24172,Dave Melanson,2026-09-28,Mon,13:30,60,no-show,2026-09-28 13:45,0
+O15,A-24188,Marc Cormier,2026-09-29,Tue,09:00,60,late cancel,2026-09-28 13:42,19.3
+O16,A-24193,Dave Melanson,2026-09-29,Tue,11:00,60,late cancel,2026-09-29 01:16,9.7
+O17,A-24231,Amira Haddad,2026-09-30,Wed,14:45,60,late cancel,2026-09-30 05:25,9.3
+O18,A-24265,Rachel Thibodeau,2026-10-01,Thu,16:30,60,late cancel,2026-10-01 09:09,7.3
+O19,A-24268,Dave Melanson,2026-10-01,Thu,17:45,60,late cancel,2026-10-01 06:25,11.3
+O20,A-24281,Dave Melanson,2026-10-02,Fri,12:00,60,late cancel,2026-10-02 08:22,3.6
+O21,A-24283,Josée Landry,2026-10-02,Fri,13:00,60,no-show,2026-10-02 13:15,0
+O22,A-24284,Dave Melanson,2026-10-02,Fri,13:15,60,late cancel,2026-10-01 21:36,15.7
+O23,A-24320,Amira Haddad,2026-10-05,Mon,10:15,60,late cancel,2026-10-05 03:36,6.7
+O24,A-24335,Amira Haddad,2026-10-05,Mon,14:45,60,late cancel,2026-10-05 00:59,13.8
+O25,A-24354,Dave Melanson,2026-10-06,Tue,12:00,60,late cancel,2026-10-05 23:29,12.5
+O26,A-24360,Dave Melanson,2026-10-06,Tue,13:15,30,no-show,2026-10-06 13:30,0
+O27,A-24365,Kelsey Babineau,2026-10-06,Tue,15:30,90,late cancel,2026-10-06 07:43,7.8
+O28,A-24381,Josée Landry,2026-10-07,Wed,11:15,60,late cancel,2026-10-07 08:53,2.4
+O29,A-24408,Josée Landry,2026-10-08,Thu,10:15,60,no-show,2026-10-08 10:30,0
+O30,A-24410,Dave Melanson,2026-10-08,Thu,11:00,60,late cancel,2026-10-08 03:00,8
+O31,A-24423,Dave Melanson,2026-10-08,Thu,15:15,60,late cancel,2026-10-08 14:01,1.2
+O32,A-24445,Rachel Thibodeau,2026-10-09,Fri,13:45,60,late cancel,2026-10-09 06:50,6.9
+O33,A-24454,Dave Melanson,2026-10-09,Fri,17:15,60,late cancel,2026-10-09 13:51,3.4
+O34,A-24506,Rachel Thibodeau,2026-10-14,Wed,11:00,60,late cancel,2026-10-14 03:04,7.9
+O35,A-24518,Rachel Thibodeau,2026-10-14,Wed,15:00,60,late cancel,2026-10-14 08:56,6.1
+O36,A-24522,Kelsey Babineau,2026-10-14,Wed,16:00,60,late cancel,2026-10-14 10:26,5.6
+O37,A-24531,Dave Melanson,2026-10-15,Thu,11:00,60,no-show,2026-10-15 11:15,0
+O38,A-24534,Marc Cormier,2026-10-15,Thu,11:15,60,late cancel,2026-10-14 23:15,12
+O39,A-24541,Dave Melanson,2026-10-15,Thu,14:00,60,late cancel,2026-10-15 10:40,3.3
+O40,A-24547,Rachel Thibodeau,2026-10-15,Thu,16:00,60,late cancel,2026-10-15 14:43,1.3
+O41,A-24560,Dave Melanson,2026-10-16,Fri,12:00,60,late cancel,2026-10-16 05:30,6.5
+O42,A-24567,Kelsey Babineau,2026-10-16,Fri,14:15,60,late cancel,2026-10-16 09:12,5
+O43,A-24571,Dave Melanson,2026-10-16,Fri,15:00,60,no-show,2026-10-16 15:15,0
+O44,A-24594,Amira Haddad,2026-10-17,Sat,14:00,60,late cancel,2026-10-17 00:45,13.2
+D01,A-99200,Rachel Thibodeau,2026-10-22,Thu,16:00,60,late cancel,2026-10-22 08:50,7

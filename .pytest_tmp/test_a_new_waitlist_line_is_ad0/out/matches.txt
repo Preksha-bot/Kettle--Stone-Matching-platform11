@@ -1,0 +1,231 @@
+Kettle & Stone · who to offer each late opening · run date Wed Oct 21, 2026 · order: first-asked
+Call #1 first, one offer at a time. If no / no answer after ~20 min, call #2, then #3.
+Book the yes in Kneadly and link it ('rebooked into'). Nothing here is sent to anyone.
+
+O01  Mon Sep 21 12:30 · Josée · 60 min · 2.7 h notice
+  1. Amanda Bourgeois  506-555-0125  line 42  Josée or Rachel · 60 min · 2 h notice   [ask Josée first]
+  2. Joel Bertin       506-555-0135  line 39  any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice   [ask Josée first]
+  3. Nicole Vautour    506-555-0139  line 45  Amira or Josée · 60 min · not Fri · 2 h notice   [ask Josée first]
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (mornings only) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O02  Mon Sep 21 15:45 · Amira · 60 min · 0 h notice  (no-show)
+  nobody: no-show: only known 15 minutes after the start, so it is never offered
+
+O03  Tue Sep 22 11:00 · Kelsey · 90 min · 3.8 h notice
+  1. Sarah Collette  506-555-0109  line 10  Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice
+  2. Ginette Losier  506-555-0119  line 20  female therapist · 60 min · Tue/Thu · 2 h notice
+  3. Tina Saulnier   506-555-0129  line 43  Amira or Kelsey · 60 min · done by 2:30 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Tuesdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O04  Tue Sep 22 12:15 · Dave · 60 min · 9.2 h notice
+  1. Joel Bertin    506-555-0135  line 39  any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice
+  2. Shawn Duguay   506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  3. Lise Gautreau  506-555-0144  line 57  Dave or Josée · 60 min · from 12:00 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Tuesdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O05  Wed Sep 23 11:45 · Rachel · 60 min · 12.4 h notice
+  1. Pauline Bastarache  506-555-0102  line 51  any therapist · 60 min · Mon/Wed · mornings · 2 h notice
+  2. Carole Mazerolle    506-555-0115  line 48  Josée or Rachel · 60 min · mornings · 2 h notice
+  3. Amanda Bourgeois    506-555-0125  line 42  Josée or Rachel · 60 min · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Terry Hebert (stale: no contact since Jul 20 (over 60 days)) · Normand Vienneau (Rachel isn't on their list)
+
+O06  Wed Sep 23 15:00 · Kelsey · 60 min · 13.3 h notice
+  1. Sarah Collette   506-555-0109  line 10  Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice
+  2. Vanessa Caissie  506-555-0136  line 40  Amira or Kelsey · 60 min · 3 h notice
+  3. Andrea Pitre     506-555-0141  line 49  female therapist · 45 min · Wed/Fri · 4 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (mornings only) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O07  Wed Sep 23 18:45 · Amira · 60 min · 0 h notice  (no-show)
+  nobody: no-show: only known 15 minutes after the start, so it is never offered
+
+O08  Wed Sep 23 18:45 · Rachel · 60 min · 14.4 h notice
+  1. Denis Theriault   506-555-0111  line 12  anyone but Dave · 60 min · not Thu · from 3:30 · 2 h notice
+  2. Kevin Steeves     506-555-0123  line 24  any therapist · 60 min · from 5:00 · 2 h notice   [text only]
+  3. Amanda Bourgeois  506-555-0125  line 42  Josée or Rachel · 60 min · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (mornings only) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O09  Thu Sep 24 10:15 · Josée · 60 min · 11.7 h notice
+  1. Chantal Maltais   506-555-0113  line 14  Josée · 45/60 min · 3 h notice   [ask Josée first]
+  2. Carole Mazerolle  506-555-0115  line 48  Josée or Rachel · 60 min · mornings · 2 h notice   [ask Josée first]
+  3. Ginette Losier    506-555-0119  line 20  female therapist · 60 min · Tue/Thu · 2 h notice   [ask Josée first]
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O10  Thu Sep 24 13:30 · Dave · 60 min · 8.2 h notice
+  1. Shawn Duguay   506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  2. Lise Gautreau  506-555-0144  line 57  Dave or Josée · 60 min · from 12:00 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O11  Fri Sep 25 13:15 · Josée · 60 min · 12.7 h notice
+  1. Chantal Maltais   506-555-0113  line 14  Josée · 45/60 min · 3 h notice   [ask Josée first]
+  2. Amanda Bourgeois  506-555-0125  line 42  Josée or Rachel · 60 min · 2 h notice   [ask Josée first]
+  3. Andrea Pitre      506-555-0141  line 49  female therapist · 45 min · Wed/Fri · 4 h notice   [ask Josée first]
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Fridays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O12  Mon Sep 28 11:30 · Josée · 60 min · 13.5 h notice
+  1. Pauline Bastarache  506-555-0102  line 51  any therapist · 60 min · Mon/Wed · mornings · 2 h notice   [ask Josée first]
+  2. Chantal Maltais     506-555-0113  line 14  Josée · 45/60 min · 3 h notice   [ask Josée first]
+  3. Carole Mazerolle    506-555-0115  line 48  Josée or Rachel · 60 min · mornings · 2 h notice   [ask Josée first]
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Terry Hebert (stale: no contact since Jul 20 (over 60 days)) · Normand Vienneau (Josée isn't on their list)
+
+O13  Mon Sep 28 12:30 · Amira · 30 min · 1.2 h notice
+  1. Joel Bertin  506-555-0135  line 39  any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (wants 60 min) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O14  Mon Sep 28 13:30 · Dave · 60 min · 0 h notice  (no-show)
+  nobody: no-show: only known 15 minutes after the start, so it is never offered
+
+O15  Tue Sep 29 09:00 · Marc · 60 min · 19.3 h notice
+  1. Marcel Bujold     506-555-0117  line 18  Marc · 60 min · mornings · 0.5 h notice
+  2. Patrick Chiasson  506-555-0131  line 33  anyone but Dave · 60 min · not Mon · mornings · 2 h notice
+  3. Mireille Cole     506-555-0138  line 60  any therapist · 60 min · not Thu · mornings · 2 h notice   [text only]
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Tuesdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O16  Tue Sep 29 11:00 · Dave · 60 min · 9.7 h notice
+  1. Mireille Cole  506-555-0138  line 60  any therapist · 60 min · not Thu · mornings · 2 h notice   [text only]
+  2. Shawn Duguay   506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Tuesdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O17  Wed Sep 30 14:45 · Amira · 60 min · 9.3 h notice
+  1. Sarah Collette   506-555-0109  line 10  Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice
+  2. Monique Hache    506-555-0132  line 36  Amira · 45 min · from 10:00 · 2 h notice
+  3. Vanessa Caissie  506-555-0136  line 40  Amira or Kelsey · 60 min · 3 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (mornings only) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O18  Thu Oct 01 16:30 · Rachel · 60 min · 7.3 h notice
+  1. Ginette Losier    506-555-0119  line 20  female therapist · 60 min · Tue/Thu · 2 h notice
+  2. Amanda Bourgeois  506-555-0125  line 42  Josée or Rachel · 60 min · 2 h notice
+  3. Paul Arsenault    506-555-0190  line 61  any therapist · 60 min · from 4:00 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O19  Thu Oct 01 17:45 · Dave · 60 min · 11.3 h notice
+  1. Normand Vienneau  506-555-0104  line 47  Dave · 60/90 min · from 4:00 · 2 h notice
+  2. Kevin Steeves     506-555-0123  line 24  any therapist · 60 min · from 5:00 · 2 h notice   [text only]
+  3. Shawn Duguay      506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O20  Fri Oct 02 12:00 · Dave · 60 min · 3.6 h notice
+  1. Joel Bertin    506-555-0135  line 39  any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice
+  2. Shawn Duguay   506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  3. Lise Gautreau  506-555-0144  line 57  Dave or Josée · 60 min · from 12:00 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Fridays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O21  Fri Oct 02 13:00 · Josée · 60 min · 0 h notice  (no-show)
+  nobody: no-show: only known 15 minutes after the start, so it is never offered
+
+O22  Fri Oct 02 13:15 · Dave · 60 min · 15.7 h notice
+  1. Shawn Duguay   506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  2. Lise Gautreau  506-555-0144  line 57  Dave or Josée · 60 min · from 12:00 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Fridays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O23  Mon Oct 05 10:15 · Amira · 60 min · 6.7 h notice
+  1. Pauline Bastarache  506-555-0102  line 51  any therapist · 60 min · Mon/Wed · mornings · 2 h notice
+  2. Lorraine Johnson    506-555-0106  line 56  Amira · 60 min · Mon/Tue · 2 h notice
+  3. Sarah Collette      506-555-0109  line 10  Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Terry Hebert (stale: no contact since Jul 20 (over 60 days)) · Normand Vienneau (Amira isn't on their list)
+
+O24  Mon Oct 05 14:45 · Amira · 60 min · 13.8 h notice
+  1. Lorraine Johnson  506-555-0106  line 56  Amira · 60 min · Mon/Tue · 2 h notice
+  2. Sarah Collette    506-555-0109  line 10  Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice
+  3. Monique Hache     506-555-0132  line 36  Amira · 45 min · from 10:00 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (mornings only) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O25  Tue Oct 06 12:00 · Dave · 60 min · 12.5 h notice
+  1. Joel Bertin    506-555-0135  line 39  any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice
+  2. Shawn Duguay   506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  3. Lise Gautreau  506-555-0144  line 57  Dave or Josée · 60 min · from 12:00 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Tuesdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O26  Tue Oct 06 13:15 · Dave · 30 min · 0 h notice  (no-show)
+  nobody: no-show: only known 15 minutes after the start, so it is never offered
+
+O27  Tue Oct 06 15:30 · Kelsey · 90 min · 7.8 h notice
+  1. Sarah Collette   506-555-0109  line 10  Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice
+  2. Denis Theriault  506-555-0111  line 12  anyone but Dave · 60 min · not Thu · from 3:30 · 2 h notice
+  3. Ginette Losier   506-555-0119  line 20  female therapist · 60 min · Tue/Thu · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Tuesdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O28  Wed Oct 07 11:15 · Josée · 60 min · 2.4 h notice
+  1. Pauline Bastarache  506-555-0102  line 51  any therapist · 60 min · Mon/Wed · mornings · 2 h notice   [ask Josée first]
+  2. Carole Mazerolle    506-555-0115  line 48  Josée or Rachel · 60 min · mornings · 2 h notice   [ask Josée first]
+  3. Amanda Bourgeois    506-555-0125  line 42  Josée or Rachel · 60 min · 2 h notice   [ask Josée first]
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Terry Hebert (stale: no contact since Jul 20 (over 60 days)) · Normand Vienneau (Josée isn't on their list)
+
+O29  Thu Oct 08 10:15 · Josée · 60 min · 0 h notice  (no-show)
+  nobody: no-show: only known 15 minutes after the start, so it is never offered
+
+O30  Thu Oct 08 11:00 · Dave · 60 min · 8 h notice
+  1. Shawn Duguay  506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O31  Thu Oct 08 15:15 · Dave · 60 min · 1.2 h notice
+  nobody: nobody on the list fits
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O32  Fri Oct 09 13:45 · Rachel · 60 min · 6.9 h notice
+  1. Amanda Bourgeois  506-555-0125  line 42  Josée or Rachel · 60 min · 2 h notice
+  2. Andrea Pitre      506-555-0141  line 49  female therapist · 45 min · Wed/Fri · 4 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Fridays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O33  Fri Oct 09 17:15 · Dave · 60 min · 3.4 h notice
+  1. Normand Vienneau  506-555-0104  line 47  Dave · 60/90 min · from 4:00 · 2 h notice
+  2. Kevin Steeves     506-555-0123  line 24  any therapist · 60 min · from 5:00 · 2 h notice   [text only]
+  3. Greg Wilson       506-555-0133  line 37  any therapist · 60 min · Fri · from 3:00 · 2 h notice   [new client, phone only]
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Fridays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O34  Wed Oct 14 11:00 · Rachel · 60 min · 7.9 h notice
+  1. Pauline Bastarache  506-555-0102  line 51  any therapist · 60 min · Mon/Wed · mornings · 2 h notice
+  2. Carole Mazerolle    506-555-0115  line 48  Josée or Rachel · 60 min · mornings · 2 h notice
+  3. Luc Bernard         506-555-0121  line 53  any therapist · 60/90 min · not Sat · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Terry Hebert (stale: no contact since Jul 20 (over 60 days)) · Normand Vienneau (Rachel isn't on their list)
+
+O35  Wed Oct 14 15:00 · Rachel · 60 min · 6.1 h notice
+  1. Luc Bernard       506-555-0121  line 53  any therapist · 60/90 min · not Sat · 2 h notice
+  2. Amanda Bourgeois  506-555-0125  line 42  Josée or Rachel · 60 min · 2 h notice
+  3. Andrea Pitre      506-555-0141  line 49  female therapist · 45 min · Wed/Fri · 4 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (mornings only) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O36  Wed Oct 14 16:00 · Kelsey · 60 min · 5.6 h notice
+  1. Sarah Collette   506-555-0109  line 10  Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice
+  2. Denis Theriault  506-555-0111  line 12  anyone but Dave · 60 min · not Thu · from 3:30 · 2 h notice
+  3. Luc Bernard      506-555-0121  line 53  any therapist · 60/90 min · not Sat · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (mornings only) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O37  Thu Oct 15 11:00 · Dave · 60 min · 0 h notice  (no-show)
+  nobody: no-show: only known 15 minutes after the start, so it is never offered
+
+O38  Thu Oct 15 11:15 · Marc · 60 min · 12 h notice
+  1. Marcel Bujold     506-555-0117  line 18  Marc · 60 min · mornings · 0.5 h notice
+  2. Luc Bernard       506-555-0121  line 53  any therapist · 60/90 min · not Sat · 2 h notice
+  3. Patrick Chiasson  506-555-0131  line 33  anyone but Dave · 60 min · not Mon · mornings · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O39  Thu Oct 15 14:00 · Dave · 60 min · 3.3 h notice
+  1. Luc Bernard    506-555-0121  line 53  any therapist · 60/90 min · not Sat · 2 h notice
+  2. Shawn Duguay   506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  3. Lise Gautreau  506-555-0144  line 57  Dave or Josée · 60 min · from 12:00 · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O40  Thu Oct 15 16:00 · Rachel · 60 min · 1.3 h notice
+  nobody: nobody on the list fits
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Thursdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O41  Fri Oct 16 12:00 · Dave · 60 min · 6.5 h notice
+  1. Luc Bernard   506-555-0121  line 53  any therapist · 60/90 min · not Sat · 2 h notice
+  2. Joel Bertin   506-555-0135  line 39  any therapist · 30/45 min · Mon/Tue/Wed/Thu/Fri · 12:00–1:00 · 0.5 h notice
+  3. Shawn Duguay  506-555-0140  line 46  Dave or Marc · 60 min · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Fridays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O42  Fri Oct 16 14:15 · Kelsey · 60 min · 5 h notice
+  1. Sarah Collette   506-555-0109  line 10  Amira or Kelsey · 60 min · Mon/Tue/Wed/Thu/Fri · 2 h notice
+  2. Luc Bernard      506-555-0121  line 53  any therapist · 60/90 min · not Sat · 2 h notice
+  3. Vanessa Caissie  506-555-0136  line 40  Amira or Kelsey · 60 min · 3 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Fridays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))
+
+O43  Fri Oct 16 15:00 · Dave · 60 min · 0 h notice  (no-show)
+  nobody: no-show: only known 15 minutes after the start, so it is never offered
+
+O44  Sat Oct 17 14:00 · Amira · 60 min · 13.2 h notice
+  1. Monique Hache    506-555-0132  line 36  Amira · 45 min · from 10:00 · 2 h notice
+  2. Vanessa Caissie  506-555-0136  line 40  Amira or Kelsey · 60 min · 3 h notice
+  3. Nicole Vautour   506-555-0139  line 45  Amira or Josée · 60 min · not Fri · 2 h notice
+  not offered: Gisele Maillet (stale: no contact since Jul 06 (over 60 days)) · Pauline Bastarache (can't do Saturdays) · Terry Hebert (stale: no contact since Jul 20 (over 60 days))

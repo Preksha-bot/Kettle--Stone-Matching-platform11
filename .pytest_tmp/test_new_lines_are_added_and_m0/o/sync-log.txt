@@ -1,0 +1,13 @@
+Sync log · database C:\Users\joonp\Documents\Claude\kettle-stone-platform\.pytest_tmp\test_new_lines_are_added_and_m0\kettle.db
+This sync (#2): 2026-10-30 09:00 · run date 2026-10-21
+  waitlist-new.csv: 62 lines · new: 61-62 · changed: none · already saved: 60
+
+Database now: 62 waitlist lines · 595 bookings (visits 2026-09-21 to 2026-10-17) · 44 openings
+Matched: 44 opening(s) in the database
+
+Warnings from this sync:
+  none
+
+All syncs:
+  #1 2026-10-30 09:00 · run date 2026-10-21 · waitlist-2026-10-21.csv, appointments-2026-09-21-to-2026-10-17.csv, late-openings-2026-09-21-to-2026-10-17.csv
+  #2 2026-10-30 09:00 · run date 2026-10-21 · waitlist-new.csv
